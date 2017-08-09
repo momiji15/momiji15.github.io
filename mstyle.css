@@ -1,0 +1,110 @@
+/*Latest compiled and minified CSS*/
+ @import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css");
+
+
+/*Latest compiled and minified JavaScript*/
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js");
+
+/*Google Font*/
+@import url('https://fonts.googleapis.com/css?family=Righteous|Sedgwick+Ave');
+
+   
+    .top{
+        font-family: 'Righteous', cursive;
+        color: black;
+        font-size: 100px;
+    }
+    
+    body {
+            padding-top: 50px;
+            background-color:  white;
+         }
+    
+ 
+    .navbar a{
+        font-family: 'Righteous', cursive;
+        color: white;
+    }
+    
+    .white a:hover{
+        color: black;
+    }
+    
+    .pill a:focus{
+        color: black;
+        
+    }
+  
+    .h2{
+        font-family: 'Righteous', cursive !important;
+        color:black !important;
+        
+    }
+    
+ 
+    .aboutme{
+        background-color: white;
+        font-family: 'Righteous', cursive;
+        color: black;
+        font-size: 22px;
+        padding: 70px;
+
+        
+    }
+    
+    .portfolio{
+        background-color: #414162;
+        font-family: 'righteous', cursive;
+        color: white;
+        font-size: 22px;
+        padding: 70px;
+    }
+    
+	.portfolio2{
+        background-color: #414162;
+        font-family: 'righteous', cursive;
+        color: white;
+        font-size: 22px;  
+    }
+	
+	.portfoliotop{
+        background-color: #414162;
+        font-family: 'righteous', cursive;
+        color: white;
+        font-size: 22px;
+        padding-top: 50px;
+	}
+	
+    .misc{
+        background-color: #414162;
+        font-family: 'righteous', cursive;
+        color: white;
+        font-size: 22px;
+        padding: 50px;
+    }
+    
+    .contact{
+        background-color: #ABABC7;
+        font-family: 'righteous', cursive;
+        color: white;
+        font-size: 22px;
+        padding: 10px;
+    }
+	
+	.contact2{
+        background-color: #ABABC7;
+        font-family: 'righteous', cursive;
+        color: white;
+        font-size: 22px;
+        padding-top: 70px;
+    }
+    
+    .btn{
+        background-color: #808080 !important;
+    }
+  
+    .profilepic{
+        
+        border-radius: 50%;   
+        
+    }
